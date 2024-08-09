@@ -1,1 +1,2 @@
 # Coffee_Wending_Machine
+The application allows users to select a coffee type,  processes payments with accurate change calculation, and  verifies resource availability like coffee, milk, and sugar. Key  features include a user-friendly interface, real-time resource  tracking, and precise change dispensing. This project  demonstrates skills in system design, user input handling, and  resource management using Python..
